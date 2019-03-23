@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[18]:
-
-
 #######################################################################
 # Author: Siddhesh Rane
 # Github: srane96
@@ -65,10 +59,6 @@ class LinkedList:
             print(curr_node.value)
             curr_node = curr_node.next
         print("list size: ",self.size)
-
-
-# In[20]:
-
 
 # create a linked list of various nodes
 mon = Node('Monday')

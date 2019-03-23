@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[7]:
-
-
 #######################################################################
 # Author: Siddhesh Rane
 # Github: srane96
@@ -58,10 +52,6 @@ class Graph:
     def print_graph(self):
         for key, value in self.vertices.items():
             print(key,": ",str(value.neighbours))
-
-
-# In[8]:
-
 
 # Testing graph structure
 a = Node('a')
