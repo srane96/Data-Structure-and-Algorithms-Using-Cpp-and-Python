@@ -15,3 +15,4 @@ In this repository I have listed all the data structures, algorithms and their i
      2. Sorting
 	- [Bubble Sort](Python/bubble_sort.py)
 	- [Merge Sort](Python/merge_sort.py)
+	- [Selection Sort](Python/selection_sort.py)
