@@ -13,4 +13,4 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Binary Search Iterative](Python/binary_search_iterative.py)
 	- [Binary Search Recursive](Python/binary_search_recursive.py)
      2. Sorting
-	- 
+	- [Bubble Sort](Python/bubble_sort.py)

@@ -1,4 +1,5 @@
 def binary_search_recursive(input_list, search_element, start, end):
+    """ Iteratively search for search_element in the input_list. """
     middle = (start + end) / 2
     if start > end:
         return -1
