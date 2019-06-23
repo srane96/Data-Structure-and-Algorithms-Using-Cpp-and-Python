@@ -10,6 +10,7 @@ class LinkedList(object):
         self.head = head
 
     def print_list(self):
+        """ Print values of the linkedList elements. """
         current = self.head
         lst = []
         while current:

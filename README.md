@@ -8,3 +8,4 @@ In this repository I have listed all the data structures, algorithms and their i
      - [Undirected Graph Using Adjacency List Dictionary](Python/graph_using_adjacency_list.py)
   2. Algorithm Implementation:
      - [Linked List Implementation](Python/linked_list.py)
+     - [Stack implementation](Python/stack.py)
