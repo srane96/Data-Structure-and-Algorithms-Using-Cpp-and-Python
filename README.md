@@ -16,3 +16,5 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Bubble Sort](Python/bubble_sort.py)
 	- [Merge Sort](Python/merge_sort.py)
 	- [Selection Sort](Python/selection_sort.py)
+	- [Insertion Sort](Python/insertion_sort.py)
+	- [Quick Sort](Python/quick_sort.py)
