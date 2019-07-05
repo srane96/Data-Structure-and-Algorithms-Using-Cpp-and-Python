@@ -1,4 +1,4 @@
-# Data-Structure-and-Algorithms-Using-Python-and-Cpp
+# Data-Structure-and-Algorithms-Using-Python
 In this repository I have listed all the data structures, algorithms and their implementations, I have learnt using Python.
 
 # Python Codes:
