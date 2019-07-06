@@ -21,7 +21,7 @@ def quick_sort(input_array, start, end):
 # Test insertion sort method
 l = [9,8,12,6,55,5,4,3,2,1]
 quick_sort(l,0,len(l)-1)
-n = [11,5,6,11,9]
+n = [11,10,9,8,7,6,5,4,3,2,1]
 quick_sort(n,0,len(n)-1)
 print(l)
 print(n)
