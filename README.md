@@ -20,3 +20,7 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Selection Sort](Python/selection_sort.py)
 	- [Insertion Sort](Python/insertion_sort.py)
 	- [Quick Sort](Python/quick_sort.py)
+	
+# C++ Codes:
+  1. Coding challenge questions:
+  	- [Kadane's algorithm for maximum subarray](Cpp/kadane.cpp)
