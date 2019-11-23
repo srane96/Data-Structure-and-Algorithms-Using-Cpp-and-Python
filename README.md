@@ -24,4 +24,5 @@ In this repository I have listed all the data structures, algorithms and their i
 # C++ Codes:
   1. Coding challenge questions:
   	- [Kadane's algorithm for maximum subarray](Cpp/kadane.cpp)
+  2. Sorting Algorithms:
 	- [Bubble and selection sort](Cpp/bubble_selection.cpp)
