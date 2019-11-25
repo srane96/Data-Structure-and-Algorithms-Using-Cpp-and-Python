@@ -27,3 +27,4 @@ In this repository I have listed all the data structures, algorithms and their i
   2. Sorting Algorithms:
 	- [Bubble and selection sort](Cpp/bubble_selection.cpp)
 	- [Insertion sort](Cpp/insertion_sort.cpp)
+	- [Counting sort](Cpp/counting_sort.cpp)
