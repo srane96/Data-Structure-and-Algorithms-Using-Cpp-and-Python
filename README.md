@@ -30,3 +30,4 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Counting sort](Cpp/counting_sort.cpp)
   3. Complete Search Algorithms:
   	- [Print all subsets using Recursion](Cpp/subsets_recursion.cpp)
+	- [Print all permutations of a sequence](Cpp/permutations_recursion.cpp)
