@@ -28,3 +28,5 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Bubble and selection sort](Cpp/bubble_selection.cpp)
 	- [Insertion sort](Cpp/insertion_sort.cpp)
 	- [Counting sort](Cpp/counting_sort.cpp)
+  3. Complete Search Algorithms:
+  	- [Print all subsets using Recursion](Cpp/subsets_recursion.cpp)
