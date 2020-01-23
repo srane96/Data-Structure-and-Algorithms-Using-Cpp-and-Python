@@ -35,3 +35,4 @@ In this repository I have listed all the data structures, algorithms and their i
   4. Dynamic Programming:
   	- [Unique paths in a grid](Cpp/unique_paths.cpp)
 	- [Max Array Sum](Cpp/max_array_sum.cpp)
+	- [Number of ways to reach top staircase](Cpp/staircase.cpp)
