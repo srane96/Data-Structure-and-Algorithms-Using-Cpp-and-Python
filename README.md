@@ -3,6 +3,7 @@ In this repository I have listed all the data structures, algorithms and their i
 
 # Python Codes:
   1. Datastructure Implementation:
+     1. Lists and Binary Tree
      - [Basic Node Implementation and traversal](Python/simple_node_creation_traversal.py)
      - [Undirected Graph Using Adjacency List Dictionary](Python/graph_using_adjacency_list.py)
      - [Linked List Implementation](Python/linked_list.py)
