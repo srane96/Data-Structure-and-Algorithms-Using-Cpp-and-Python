@@ -34,3 +34,4 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Print all permutations of a sequence](Cpp/permutations_recursion.cpp)
   4. Dynamic Programming:
   	- [Unique paths in a grid](Cpp/unique_paths.cpp)
+	- [Max Array Sum](Cpp/max_array_sum.cpp)
