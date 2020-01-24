@@ -22,6 +22,8 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Quick Sort](Python/quick_sort.py)
 	
 # C++ Codes:
+  0. Data structure implementations:
+  	- [Create heap from the given array](Cpp/heapify.cpp)
   1. Coding challenge questions:
   	- [Kadane's algorithm for maximum subarray](Cpp/kadane.cpp)
   2. Sorting Algorithms:
