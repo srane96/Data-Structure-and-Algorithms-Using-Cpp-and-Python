@@ -22,18 +22,18 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Quick Sort](Python/quick_sort.py)
 	
 # C++ Codes:
-  0. Data structure implementations:
+  1. Data structure implementations:
   	- [Create heap from the given array](Cpp/heapify.cpp)
-	- [Preorder traversal- recursive and non-recursive](Cpp/preorder_traversal.cpp)
-	- [Inorder traversal - recursive and non-recursive](Cpp/inorder_tree_traversal.cpp)
-  1. Coding challenge questions:
+	- [Preorder traversal: recursive and non-recursive](Cpp/preorder_traversal.cpp)
+	- [Inorder traversal: recursive and non-recursive](Cpp/inorder_tree_traversal.cpp)
+  2. Coding challenge questions:
   	- [Kadane's algorithm for maximum subarray](Cpp/kadane.cpp)
-  2. Sorting Algorithms:
+  3. Sorting Algorithms:
 	- [Bubble and selection sort](Cpp/bubble_selection.cpp)
 	- [Insertion sort](Cpp/insertion_sort.cpp)
 	- [Counting sort](Cpp/counting_sort.cpp)
 	- [Merge sort](Cpp/merge_sort.cpp)
-  3. Complete Search Algorithms:
+  4. Complete Search Algorithms:
   	- [Print all subsets using Recursion](Cpp/subsets_recursion.cpp)
 	- [Print all permutations of a sequence](Cpp/permutations_recursion.cpp)
   4. Dynamic Programming:
