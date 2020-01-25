@@ -24,6 +24,7 @@ In this repository I have listed all the data structures, algorithms and their i
 # C++ Codes:
   0. Data structure implementations:
   	- [Create heap from the given array](Cpp/heapify.cpp)
+	- [Preorder traversal- recursive and non-recursive](Cpp/preorder_traversal.cpp)
 	- [Inorder traversal - recursive and non-recursive](Cpp/inorder_tree_traversal.cpp)
   1. Coding challenge questions:
   	- [Kadane's algorithm for maximum subarray](Cpp/kadane.cpp)
