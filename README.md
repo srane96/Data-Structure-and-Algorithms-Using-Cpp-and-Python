@@ -41,3 +41,4 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Max Array Sum](Cpp/max_array_sum.cpp)
 	- [Number of ways to reach top staircase](Cpp/staicase.cpp)
 	- [Maximum occuring consecutive character](Cpp/max_consecutive_char.cpp)
+	- [Multistage Graph](Cpp/multistage_graph.cpp)
