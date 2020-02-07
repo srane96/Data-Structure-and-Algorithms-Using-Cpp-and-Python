@@ -10,6 +10,7 @@ In this repository I have listed all the data structures, algorithms and their i
      - [Simplest Linked List Implementation](Python/linked_list.py)
      - [Simple Binary Tree Implementation](Python/binary_tree.py)
      - [Simple Binary Search Tree](Python/binary_search_tree.py)
+     - [Binary Tree Top View](Python/top_view.py)
   2. Algorithm Implementation:
      1. Searching
 	- [Binary Search Iterative](Python/binary_search_iterative.py)
