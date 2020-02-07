@@ -26,6 +26,7 @@ In this repository I have listed all the data structures, algorithms and their i
   	- [Create heap from the given array](Cpp/heapify.cpp)
 	- [Preorder traversal: recursive and non-recursive](Cpp/preorder_traversal.cpp)
 	- [Inorder traversal: recursive and non-recursive](Cpp/inorder_tree_traversal.cpp)
+	- [Postorder traversal: recurisve and non-recursive](Cpp/postorder_traversal.cpp)
   2. Coding challenge questions:
   	- [Kadane's algorithm for maximum subarray](Cpp/kadane.cpp)
   3. Sorting Algorithms:
