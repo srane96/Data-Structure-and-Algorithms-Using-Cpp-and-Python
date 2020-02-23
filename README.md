@@ -45,5 +45,5 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Maximum occuring consecutive character](Cpp/max_consecutive_char.cpp)
 	- [Multistage Graph](Cpp/multistage_graph.cpp)
   6. Number Theory:
-  	- [Binary exponentiation] (Cpp/binary_exp.cpp)
-	- [Extended Euclid Algo] (Cpp/extended_euclid.cpp)
+  	- [Binary exponentiation](Cpp/binary_exp.cpp)
+	- [Extended Euclid Algo](Cpp/extended_euclid.cpp)
