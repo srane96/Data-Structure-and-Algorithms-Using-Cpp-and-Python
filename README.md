@@ -46,3 +46,4 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Multistage Graph](Cpp/multistage_graph.cpp)
   6. Number Theory:
   	- [Binary exponentiation](Cpp/binary_exp.cpp)
+	- [Extended Euclid Algo] (Cpp/extended_euclid.cpp)
