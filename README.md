@@ -38,9 +38,11 @@ In this repository I have listed all the data structures, algorithms and their i
   4. Complete Search Algorithms:
   	- [Print all subsets using Recursion](Cpp/subsets_recursion.cpp)
 	- [Print all permutations of a sequence](Cpp/permutations_recursion.cpp)
-  4. Dynamic Programming:
+  5. Dynamic Programming:
   	- [Unique paths in a grid](Cpp/unique_paths.cpp)
 	- [Max Array Sum](Cpp/max_array_sum.cpp)
 	- [Number of ways to reach top staircase](Cpp/staicase.cpp)
 	- [Maximum occuring consecutive character](Cpp/max_consecutive_char.cpp)
 	- [Multistage Graph](Cpp/multistage_graph.cpp)
+  6. Number Theory:
+  	- [Binary exponentiation](Cpp/binary_exp.cpp)
