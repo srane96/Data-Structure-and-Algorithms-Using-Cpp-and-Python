@@ -35,15 +35,17 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Insertion sort](Cpp/insertion_sort.cpp)
 	- [Counting sort](Cpp/counting_sort.cpp)
 	- [Merge sort](Cpp/merge_sort.cpp)
-  4. Complete Search Algorithms:
+  4. Binary Search:
+  	- [Number of elements lte k](Cpp/elemLessThanK.cpp)
+  5. Complete Search Algorithms:
   	- [Print all subsets using Recursion](Cpp/subsets_recursion.cpp)
 	- [Print all permutations of a sequence](Cpp/permutations_recursion.cpp)
-  5. Dynamic Programming:
+  6. Dynamic Programming:
   	- [Unique paths in a grid](Cpp/unique_paths.cpp)
 	- [Max Array Sum](Cpp/max_array_sum.cpp)
 	- [Number of ways to reach top staircase](Cpp/staicase.cpp)
 	- [Maximum occuring consecutive character](Cpp/max_consecutive_char.cpp)
 	- [Multistage Graph](Cpp/multistage_graph.cpp)
-  6. Number Theory:
+  7. Number Theory:
   	- [Binary exponentiation](Cpp/binary_exp.cpp)
 	- [Extended Euclid Algo](Cpp/extended_euclid.cpp)
