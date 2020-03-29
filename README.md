@@ -49,3 +49,5 @@ In this repository I have listed all the data structures, algorithms and their i
   7. Number Theory:
   	- [Binary exponentiation](Cpp/binary_exp.cpp)
 	- [Extended Euclid Algo](Cpp/extended_euclid.cpp)
+  8. Misc:
+  	- [Moore's voting algorithm](Cpp/mooresVotingAlgo.cpp)
