@@ -51,3 +51,5 @@ In this repository I have listed all the data structures, algorithms and their i
 	- [Extended Euclid Algo](Cpp/extended_euclid.cpp)
   8. Misc:
   	- [Moore's voting algorithm](Cpp/mooresVotingAlgo.cpp)
+  9. Recursion and Backtracking:
+  	- [N Queen's problem with Backtracking](Cpp/n_queens.cpp)
